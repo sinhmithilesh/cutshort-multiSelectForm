@@ -1,0 +1,87 @@
+.first{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.firstTittle{
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+}
+
+.lable{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.error{
+    font-size: 14px;
+    color: red;
+    margin-left: 10px;
+}
+
+
+
+.firstText{
+    font-size: 16px;
+    text-align: center;
+    color: rgba(128, 128, 128, 0.874);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.firstInput{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+.css-13maa2j{
+    color:black !important;
+    font-weight: 500!important;
+}
+
+
+.css-9npbnl-MuiFormLabel-root-MuiInputLabel-root{
+    font-size: 16px !important;
+    font-weight: 500 !important;
+}
+
+.createBtn{
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 20px;
+    height: 40px;
+    border: none;
+    background-color: #654de4;
+    font-size: 16px;
+    color:white;
+    cursor: pointer;
+}
+.createBtn:hover{
+    background-color: #5137d3;
+}
+
+/* .css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+    min-width: 100% !important;
+    padding: 0;
+    margin: 10px 0px !important;
+    border: 0;
+    vertical-align: top;
+} */

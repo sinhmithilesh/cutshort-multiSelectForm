@@ -1,0 +1,68 @@
+.second{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+
+.secondTitle{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.secondText{
+    font-size: 16px;
+    text-align: center;
+    color: rgba(128, 128, 128, 0.874);
+    margin-top: 10px;
+    margin-bottom: 32px;
+}
+
+.css-i44wyl{
+    width: 100% !important;
+}
+
+.css-13maa2j{
+    color:black !important;
+    font-weight: 500!important;
+}
+
+
+.second-createBtn{
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+    height: 40px;
+    border: none;
+    background-color: #654de4;
+    font-size: 16px;
+    color:white;
+    cursor: pointer;
+}
+.second-createBtn:hover{
+    background-color: #5137d3;
+}
+
+
+/* 
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+    min-width: 100% !important;
+    padding: 0;
+    margin: 10px 0px !important;
+    border: 0;
+    vertical-align: top;
+} */
+
+/* .second.btn{
+    margin-left: 50px!important;
+} */
